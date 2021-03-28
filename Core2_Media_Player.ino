@@ -1,29 +1,14 @@
 
 
 /*
-   March 27, 2021
+   March 28, 2021
    Made changes to the Example Core2 Web Radio Player from:
    https://www.hackster.io/tommyho/arduino-web-radio-player-c4cb23
-
-    Wish List: 
-    slightly organized the code into better sections (Done)
-    Nicer Fonts (Done)
-    Use 2nd CPU Core to handle GUI and button's so we keep it responsive
-    Add bluetooth output to Bluetooth speakers / headest
-    Get more information from the stream,  Album art, etc.
-      --  Checked into what comes into the stream So far I don't see extra data
-    Get track length and have a progress bar for the track
-      -- Again I don't see if this information comes in from the library
-    Have an interface to select WiFi network and enter password
-    -- Store password in EEPROM
-    Better mehod of selecting stations
-    ? Maybe web interface for setting up station lists?
 
     I see that the actual library for the functions came from:
     Earle Philhower III
     Who credits his library to :  StellaPlayer and libMAD
     https://github.com/earlephilhower/ESP8266Audio
-
 
 */
 
