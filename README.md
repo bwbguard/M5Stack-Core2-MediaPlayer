@@ -1,7 +1,7 @@
 # M5Stack-Core2-MediaPlayer
 M5Stack Core2 Web Media Player modified from other sources
 
-
+![Core2_MediaPlayer](https://user-images.githubusercontent.com/45339749/112758999-f6ec7700-8fa5-11eb-863e-e5d82a7b73cd.jpg)
 
 I was searching for a Streaming media player for the M5Stack Core2 and came across a M5 Stack Forum with other looking for the same thing. This forum : https://forum.m5stack.com/topic/2972/core2-as-web-radio-without-extra-hardware Got me pointed to this site that had an M5Stack media player working on the M5Stick: https://www.hackster.io/tommyho/arduino-web-radio-player-c4cb23
 
