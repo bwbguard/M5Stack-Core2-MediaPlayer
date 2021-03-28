@@ -12,6 +12,6 @@ I think it's only fair to mention that the underlying library that makes the mag
 
 I've updated the GUI to make it slightly nicer to use.
 
-No special licencing other than what is required by the listed sources above, or Arduino.
+No special licensing other than what is required by the listed sources above, or Arduino.
 My additions are free to use for all. Enjoy.
 
